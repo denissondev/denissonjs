@@ -1,12 +1,13 @@
-    <h1>Olá, saudações! Sou Denisson Silva. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/></h1>
-    <p align="left"><img src="https://komarev.com/ghpvc/?username=denissonjs&amp;color=blue" alt="Numero de Visualização do Perfil"/></p>
+# Olá! Sou Denisson Silva.
+<img align="center" src="https://komarev.com/ghpvc/?username=denissonjs&amp;color=blue" alt="Whatsapp"/>  
+
     
 - 🔭 Afiando o machado com projetos de pesquisas backend e desktop.
 - 🌱 Hypando a incrivél jornada de engenharia de software.
 - 👯 Programador web e desktop no maior distribuidor atacadista de Sergipe, Grupo Megga.
 - 💬 Posso responder sobre C# .NET, SQL, JavaScript, Node.JS, Winthor Totvs Dev
-- 👨🏽‍💻 13 Projetos reais em Windows Form C# .NET para Winthor.   
-- 🛢️ 2 Projetos backend em produção em com javascript/node.
+- 👨🏽‍💻 19 Projetos reais em Windows Form C# .NET para Winthor.   
+- 🛢️ 2 Projetos backend em produção em com javascript/node e 2 com ASP .NET.
 - 📫 Considere entrar em contato [nesse link](https://beacons.ai/denissondev)  
 - ⚡ Fun fact **Bus 🚌**
 
@@ -30,8 +31,8 @@
 
 <div>
   <a href="https://github.com/denissonjs">
-  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=denissonjs&show_icons=true&theme=react" alt="GitHub stats denisson"/>
-  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissonjs&layout=compact&theme=react" alt="Denisson linguagens mais usadas"/>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api?username=denissondev&show_icons=true&theme=react" alt="GitHub stats denisson"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denissondev&layout=compact&theme=react" alt="Denisson linguagens mais usadas"/>
 </div>
 
 
@@ -42,10 +43,10 @@
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Denisson%20Silva-05122A?style=flat&logo=whatsapp" alt="Whatsapp"/>  
 </a>
-<a href="https://www.linkedin.com/in/denissonjs/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-denissonjs-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/denissondev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-denissondev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/denissonjs" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-denissonjs-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/denissondev" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-denissondev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
